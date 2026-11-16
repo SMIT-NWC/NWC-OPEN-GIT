@@ -1,5 +1,53 @@
-# Contributing / 외부 기여 안내
+# Contributing to NWC
 
-> 한국어: 현재 외부 코드 기여(Pull Request)는 별도 기여자 권리 확인 절차가 완료되기 전까지 병합하지 않습니다. 오류 신고와 기능 제안은 GitHub Issues를 이용해 주세요. 회사가 PR을 수락하는 경우 기여자의 저작권·제3자 권리 보유 및 본사 이용허락 조건을 서면으로 확인합니다. 이 파일 자체가 자동적인 저작권 양도나 무제한 이용허락을 성립시키지 않습니다.
+NWC 프로젝트에 관심을 가져주셔서 감사합니다.
 
-> English: External code pull requests will not be merged until the contributor's ownership and inbound license terms are verified separately. Please report bugs and suggest features through GitHub Issues. Accepting a PR requires appropriate written contributor rights confirmation. This document does not itself transfer copyright or create an unrestricted contribution license.
+NWC는 개발자들의 의견과 개선 제안을 환영합니다. 다만 프로젝트의 안정성, 일관성 및 저작권 보호를 위해 모든 기여 내용은 프로젝트 관리자의 검토를 거쳐 반영됩니다.
+
+## 1. Contribution 대상
+
+다음과 같은 기여를 제안할 수 있습니다.
+
+- 기존 기능의 오류 수정
+- 기능 개선 및 사용성 향상 제안
+- 문서 및 사용 예제 수정
+- 재현 가능한 버그 제보
+- 성능 및 코드 품질 개선 제안
+
+## 2. Issue 등록
+
+오류 제보 또는 기능 개선을 요청할 때는 다음 내용을 포함해 주세요.
+
+- 문제 또는 개선 사항에 대한 설명
+- 문제 발생 환경 및 재현 방법
+- 기대 동작과 실제 동작
+- 관련 화면 또는 코드 예시 (필요한 경우)
+
+동일하거나 유사한 Issue가 이미 등록되어 있는지 먼저 확인해 주세요.
+
+
+## 3. 코드 및 라이선스 준수
+
+- 기존 NWC의 저작권 및 라이선스 고지를 삭제하거나 변경하지 않습니다.
+- 제3자 소스 코드 및 라이브러리를 사용하는 경우 해당 라이선스를 확인하고 관련 정보를 명시합니다.
+- 권한이 없거나 출처가 불분명한 코드를 제출하지 않습니다.
+- 비밀번호, 인증 정보, 개인정보 및 회사 내부 정보를 포함하지 않습니다.
+
+## 5. 검토 및 반영 정책
+
+제출된 Issue는 프로젝트 관리자의 검토 대상입니다.
+
+- 제출된 모든 제안이 반영되는 것은 아닙니다.
+- 프로젝트 방향, 기술적 적합성 및 안정성을 기준으로 검토합니다.
+- 추가 수정이나 설명을 요청할 수 있습니다.
+- 검토 결과에 따라 승인, 수정 요청 또는 반려될 수 있습니다.
+
+## 6. 문의
+
+NWC 프로젝트 및 기여 관련 문의는 프로젝트의 공식 안내 채널을 이용해 주세요.
+
+---
+
+NWC 프로젝트의 발전을 위한 의견과 기여에 감사드립니다.
+
+© [연도] [저작권 보유 법인명]. All rights reserved.
