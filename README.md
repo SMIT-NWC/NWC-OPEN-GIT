@@ -10,6 +10,7 @@ NWC는 일관된 화면 구성과 효율적인 UI 개발을 지원하기 위해 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Framework-F7DF1E?logo=javascript&logoColor=black)
 ![Web Components](https://img.shields.io/badge/Web-Components-2563EB)
+![License](https://img.shields.io/badge/LIT-64748B)
 ![License](https://img.shields.io/badge/License-NWC%20Public%20Source-64748B)
 
 [이용 안내](#-이용-안내) · [주요 기능](#-주요-기능) · [시작하기](#-시작하기) · [주요 컴포넌트](#-주요-컴포넌트) · [문서와 예제](#-문서와-예제)
